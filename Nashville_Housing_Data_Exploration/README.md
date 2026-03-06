@@ -22,13 +22,13 @@ What percentage of the population has been vaccinated?
 
 #SQL Techniques Used:
 
-JOIN Operations
-Aggregate Functions (sum, max, count)
-GROUP BY
-ORDER BY
-Window Functions
-CTEs
-Calculating Percentages 
+JOIN Operations,
+Aggregate Functions (sum, max, count),
+GROUP BY,
+ORDER BY,
+Window Functions,
+CTEs,
+Calculating Percentages. 
 
 
 #Key Insights 
